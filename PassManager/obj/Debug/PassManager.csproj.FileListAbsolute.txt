@@ -1,0 +1,6 @@
+C:\Users\donat\RiderProjects\PassManager\PassManager\bin\Debug\PassManager.exe
+C:\Users\donat\RiderProjects\PassManager\PassManager\bin\Debug\PassManager.pdb
+C:\Users\donat\RiderProjects\PassManager\PassManager\obj\Debug\PassManager.csprojAssemblyReference.cache
+C:\Users\donat\RiderProjects\PassManager\PassManager\obj\Debug\PassManager.csproj.CoreCompileInputs.cache
+C:\Users\donat\RiderProjects\PassManager\PassManager\obj\Debug\PassManager.exe
+C:\Users\donat\RiderProjects\PassManager\PassManager\obj\Debug\PassManager.pdb
